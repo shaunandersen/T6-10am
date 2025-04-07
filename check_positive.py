@@ -6,6 +6,6 @@ def is_positive(number):
         return False
 
 # Testing
-test_number = -5
+test_number = -4
 output = is_positive(test_number)
 print(f"Is the number positive?, {output}")
