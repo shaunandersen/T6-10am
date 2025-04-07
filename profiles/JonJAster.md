@@ -1,2 +1,2 @@
 GitHub Username: JonJAster
-Name: Jon Aster
+Name: Jon AsterGitHub 
